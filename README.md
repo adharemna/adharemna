@@ -15,7 +15,7 @@ I'm a freshly graduated engineer in **Robotics, Control Theory, and Machine Lear
 - Exploring control strategies for tendon-driven and deformable robots  
 - Studying *The Science of Soft Robotics: Design, Materials and Information Processing* (Springer)  
 - Conducting a literature review on RL/IL methods for contact-rich, morphology-dependent control  
-- Building a weekly series of **scientific chronicles** on robotics and AI  
+- Building a weekly series of **scientific chronicles** on some of my research interests  
 
 ## 🔍 Looking For
 Opportunities to collaborate on:
